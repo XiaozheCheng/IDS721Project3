@@ -1,6 +1,6 @@
 # IDS721-Project3
 ## Introduction
-This is the individual project3 for the course IDS721. I plan to build machine learning models in AWS SageMaker to train the model based on a dataset on [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) and test the trained model using SageMaker's Batch Transform functionality, so as to compare the predicted Boston house price with the median of the real house price. Also, I would implement S3 to store the data in the cloud.
+This is the individual project3 for the course IDS721. I plan to build machine learning models in AWS SageMaker to train the model based on a dataset on [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) 
 
 ## General Plan
 1. Download the data from Kaggle
