@@ -12,4 +12,4 @@ This is the individual project3 for the course IDS721. I plan to build machine l
 * Example systems could be: (AWS Athena, AWS Spark/EMR, AWS Sagemaker, Databricks, Snowflake)
 
 
-![image]() 
+![image](https://github.com/XiaozheCheng/IDS721Project3/blob/main/image.png) 
